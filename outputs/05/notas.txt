@@ -1,0 +1,9 @@
+Finished. Time elapsed: 0:18:00:0000
+
+Feito na GPU
+1000 Epochs
+batch_size = 64
+newsize = 128
+
+load_prev_model = 0
+train_model = 1

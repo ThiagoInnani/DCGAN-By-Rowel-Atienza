@@ -1,0 +1,15 @@
+Finished. Time elapsed: 1:21:47.280756
+
+Feito na GPU
+Usou-se o modelo do 05
+1000 epochs do modelo 05
++
+5000 epochs
+=
+6000 epochs
+
+batch_size = 64
+newsize = 128
+
+load_prev_model = 1
+train_model = 1
