@@ -1,8 +1,10 @@
-# Image generator using a DCGAN
+# Gerador de Imagem com DCGAN
 
-Implementation of a DCGAN (Deep Convolutional Generative Adversarial Network) for image generation based on [this article](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0).
+Este projeto visa implementar uma DCGAN para a criação de imagens de florestas contendo a espécie Pinus. Baseado no seguinte [artigo](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0).
 
-A set of pictures of flowers are used as a sample dataset. The original dataset can be found [here](https://www.kaggle.com/olgabelitskaya/flower-color-images?select=flower_images). Run the code with `python main_gan_flower.py`.
+Utiliza-se um dataset de 124 imagens de drones. Para começar o treinamento, execute `python main_gan.py`.
 
-![](Flowers_sample.png)
-Sample of true pictures of flowers used for training (left) and random generated images after 15000 steps (right).# DCGAN-By-Rowel-Atienza
+Projeto baseado em DCGAN-By-Rowel-Atienza
+
+Para a instalação do Tensorflow, aconselho a utilização do seguinte video:
+https://www.youtube.com/watch?v=xJtmj6hX5Lg
